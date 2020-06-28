@@ -1,0 +1,2 @@
+include ':app', ':myzrouter', ':annotations', ':compilers', ':weathermodule'
+rootProject.name='ZRouter'
